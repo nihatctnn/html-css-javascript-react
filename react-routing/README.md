@@ -1,3 +1,6 @@
+![Ekran görüntüsü 2023-07-20 032408](https://github.com/nihatctnn/html-css-javascript-react/assets/96945187/d2f0916d-0640-4651-ac9a-64822d778dd1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
