@@ -1,3 +1,13 @@
+# Theme 1
+
+![1](https://github.com/nihatctnn/html-css-javascript-react/assets/96945187/2d6678aa-658a-4216-ab88-b19bac1e1818)
+
+
+# Theme 2
+
+![2](https://github.com/nihatctnn/html-css-javascript-react/assets/96945187/67c2f471-3012-4cbc-8581-c0df146b5d84)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
