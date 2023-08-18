@@ -1,0 +1,17 @@
+.app {
+  height: 100vh;
+}
+
+.app.dark {
+  color: #fff;
+  background-color: #282c34;
+}
+
+.changeTheme {
+  margin-left: 10px;
+}
+
+.buttonContainer {
+  text-align: center;
+  margin-top: 15%;
+}
