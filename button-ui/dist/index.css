@@ -1,0 +1,51 @@
+/* add css module styles here (optional) */
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+._1Lxpd {
+  text-align: center;
+}
+
+._n4jsd {
+  display: inline-block;
+}
+
+button._1Pz2d {
+  -moz-appearance: none;
+       appearance: none;
+  -webkit-appearance: none;
+  font-family: sans-serif;
+  cursor: pointer;
+  transition: background-color 100ms linear;
+  padding: 11px;
+  border-radius: 5px;
+  min-width: 250px;
+  height: 45px;
+}
+
+button._3ljpl {
+  border: 0px;
+  background: #3498db;
+  color: #ffffff;
+}
+button._3UK6o {
+  border: 2px solid rgb(157, 157, 163);
+}
+button._27xYC {
+  border: 2px dotted rgb(157, 157, 163);
+}
+button._5bXm4 {
+  border: 0px rgb(157, 157, 163);
+}
+button._71S8l {
+  border: 0px rgb(157, 157, 163);
+  color: blue;
+}
+button:hover {
+  opacity: 0.9;
+}
